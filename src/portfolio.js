@@ -25,8 +25,8 @@ const projects = [
     description:
       'Ongoing research to develop a text-to-audio model which generates first order ambisonics spatial audio.',
     stack: ['PyTorch'],
-    //sourceCode: 'https://github.com',
-    //livePreview: 'https://github.com',
+    // sourceCode: 'https://github.com',
+    // livePreview: 'https://github.com',
   },
   {
     name: 'About Me Chatbot',
