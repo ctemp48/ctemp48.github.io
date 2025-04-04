@@ -37,12 +37,12 @@ const projects = [
     livePreview: 'https://ctemp48-biochatbot-streamlitui-79wvue.streamlit.app/',
   },
   {
-    name: 'Llama 3.2 3B Fine Tuning',
+    name: 'Llama 3.2 1B Fine Tuning',
     description:
-      'Fine tuned Llama 3.2 3B to improve domain specific finance knowledge.',
+      'Fine tuned Llama 3.2 3B to improve Python code generation.',
     stack: ['Hugging Face'],
-    sourceCode: 'https://github.com/ctemp48/Llama3.2Finance',
-    livePreview: 'https://huggingface.co/ctemplin/Llama3.2-3B-Finance',
+    sourceCode: 'https://github.com/ctemp48/Llama3.2PythonProgrammer',
+    livePreview: 'https://huggingface.co/ctemplin/Llama-3.2-1B-PythonProgrammer',
   },
 ]
 
